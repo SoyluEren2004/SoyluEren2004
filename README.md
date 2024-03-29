@@ -4,7 +4,7 @@
 - 💞️ I’m looking to collaborate on new adventure .
 - 📫 How to reach me soylueren2004@gmail.com.
 - 😄 Pronouns: he/them.
-- ⚡ Fun fact: my fav char on AOT is 'Eren Yeager'.
+- ⚡ Fun fact: my fav char in AOT is 'Eren Yeager'.
 
 <!---
 SoyluEren2004/SoyluEren2004 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
