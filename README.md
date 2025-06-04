@@ -3,7 +3,7 @@
 - 🌱 I’m currently learning cyber securtiy and deutsch.
 - 💞️ I’m looking to collaborate on new adventure .
 - 📫 How to reach me soylueren2004@icloud.com.
-- 😄 Pronouns: he/them.
+
 
 <!---
 SoyluEren2004/SoyluEren2004 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
